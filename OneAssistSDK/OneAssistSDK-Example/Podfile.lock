@@ -55,7 +55,7 @@ PODS:
     - nanopb/encode (= 1.30906.0)
   - nanopb/decode (1.30906.0)
   - nanopb/encode (1.30906.0)
-  - OASDK (1.0.6):
+  - OneAssistSDK (0.0.1):
     - Alamofire
     - CocoaLumberjack/Swift
     - DeviceKit (~> 3.2)
@@ -64,7 +64,7 @@ PODS:
   - Protobuf (3.13.0)
 
 DEPENDENCIES:
-  - OASDK (= 1.0.6)
+  - OneAssistSDK (= 0.0.1)
 
 SPEC REPOS:
   trunk:
@@ -81,7 +81,7 @@ SPEC REPOS:
     - MLKitTextRecognition
     - MLKitVision
     - nanopb
-    - OASDK
+    - OneAssistSDK
     - PromisesObjC
     - Protobuf
 
@@ -99,10 +99,10 @@ SPEC CHECKSUMS:
   MLKitTextRecognition: f63196c0836420144ac5a3cdc20635779e698628
   MLKitVision: e5c375d316ffe7f08bf9be06126002a156318d90
   nanopb: 59317e09cf1f1a0af72f12af412d54edf52603fc
-  OASDK: 70d917f958853137fb25b525fa977fbdc057ab64
+  OneAssistSDK: 3cb2c268e47e58438236d570492a33ec091c716d
   PromisesObjC: b14b1c6b68e306650688599de8a45e49fae81151
   Protobuf: 3dac39b34a08151c6d949560efe3f86134a3f748
 
-PODFILE CHECKSUM: 70e0964f0be6cda4d08629954c22679fff9c6395
+PODFILE CHECKSUM: 926c5b89e6bd7204a321903ad2fa28c3649f0b75
 
 COCOAPODS: 1.9.1
