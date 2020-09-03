@@ -1,0 +1,11 @@
+framework module OneAssistSDK {
+  umbrella header "OneAssistSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module OneAssistSDK.Swift {
+    header "OneAssistSDK-Swift.h"
+    requires objc
+}
