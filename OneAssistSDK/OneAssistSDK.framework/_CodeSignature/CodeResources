@@ -4,37 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>GoogleMVTextDetectorResources.bundle/Info.plist</key>
+		<key>.DS_Store</key>
 		<data>
-		Z8CMMJE7Teb03Zk7Di+n5ddd25E=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
-		<data>
-		V2ROSYH9TDZ87SKQfYmC78jkabg=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
-		<data>
-		W+TF/C0djllwb4ejtlbbwoqIOaA=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<data>
-		6ny23cax5EGQNgpJKSnhJUhpxtQ=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<data>
-		ixRR2K5ZEPmzRLTzVw1N8fzeIT0=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<data>
-		68PK2+uslXMmEpqkRadeVy2t0PE=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<data>
-		BQIj06B3MVer0TIFCE1lwPQqAQ8=
-		</data>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<data>
-		oYS7+p9yJEEy3UOE1YgjDNNbLAM=
+		h17OTltl7FetF2ADKoXUTUfGPUQ=
 		</data>
 		<key>Headers/OAFDLibrary.h</key>
 		<data>
@@ -42,7 +14,7 @@
 		</data>
 		<key>Headers/OneAssistSDK-Swift.h</key>
 		<data>
-		37pP/fndEOWxgtdS90Kp133zdLQ=
+		rTAymgv6I+kpqlKdxGyXC5Wkhfg=
 		</data>
 		<key>Headers/OneAssistSDK.h</key>
 		<data>
@@ -54,19 +26,59 @@
 		</data>
 		<key>IMEIScreenVC.nib</key>
 		<data>
-		/Hoetzoecq60YRzBKYXI9XIDEwY=
+		Vvz9zvzNhStShc9SmRQkhHMxKuY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		VR3GKuzQpIipIKDN9rcWFYq64wA=
+		M30y8MFU/M6R4A6bW4to+E5XKuM=
 		</data>
-		<key>Modules/OneAssistSDK.swiftmodule/arm64.swiftdoc</key>
+		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		yoWj8wGU8g4YAcrQzpHlQK07nFk=
+		EaSCgby8Tj0wlP4WatJq1W5oVek=
 		</data>
-		<key>Modules/OneAssistSDK.swiftmodule/arm64.swiftmodule</key>
+		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
-		iOnRWyag5auMXQpp2Es5FUchWdw=
+		V2ROSYH9TDZ87SKQfYmC78jkabg=
+		</data>
+		<key>LatinOCRResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
+		<data>
+		W+TF/C0djllwb4ejtlbbwoqIOaA=
+		</data>
+		<key>LatinOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
+		<data>
+		6ny23cax5EGQNgpJKSnhJUhpxtQ=
+		</data>
+		<key>LatinOCRResources.bundle/tflite_langid.tflite</key>
+		<data>
+		/LcQXDvm1hHXPLE3IVulrhpZePE=
+		</data>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
+		<data>
+		66UmXr+gf7XJ71vLnqjAwes9Mnw=
+		</data>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
+		<data>
+		68PK2+uslXMmEpqkRadeVy2t0PE=
+		</data>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
+		<data>
+		BQIj06B3MVer0TIFCE1lwPQqAQ8=
+		</data>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
+		<data>
+		oYS7+p9yJEEy3UOE1YgjDNNbLAM=
+		</data>
+		<key>Modules/OneAssistSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<data>
+		tkxO68MaQBNWuoha7lBmhBMVQRQ=
+		</data>
+		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		KXkrhA42Zp7gDwxnyAt7n5FY+a8=
+		</data>
+		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		98JG70C/QiJEnmOAuqonsvIWZHo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,62 +87,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>GoogleMVTextDetectorResources.bundle/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			6inmEdOAcVOajoDUfxYjcsjxjQxbO84QqFXvEVU6vAY=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Gji2RtEJwU3YrjDV8SqQNvYPnpI8kwEzeqJQd1nysJg=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			EPDNQpLTZ7J3ggU9/BhgwGKbEwmAWLOsHW7KYoi7+wQ=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			WWAFDedH5yYOYcmXOrtzF8y39iXBQE6/iRjBKrvI7P4=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			VRUPJ3nQeTbJ+/i+y7hWf+PqWta22UQkWClpWorpaPo=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ZKunGbTtHuWz1IhsWq8LGsBRv1h56bCOhh4OKeIKCKc=
-			</data>
-		</dict>
-		<key>GoogleMVTextDetectorResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			DtYuT74PxcQJCuxHOxNuGI+ChZB2XAKDgjWNrds8y24=
-			</data>
-		</dict>
 		<key>Headers/OAFDLibrary.h</key>
 		<dict>
 			<key>hash2</key>
@@ -142,7 +98,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3swj+dyerglJHzV5Q7IhUB/cffsHAYkzJ0uBzMZKsjc=
+			cFAtKXhsv2PGKTvAZu6uFtHq8O3wCMvOEG9orjMoWJM=
 			</data>
 		</dict>
 		<key>Headers/OneAssistSDK.h</key>
@@ -163,21 +119,91 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8xFZgKSr6o1Ma7HtLvLeF35y2jrosESEXEYDvbCOxSA=
+			eLAswcGV/7MbCtopkCh0cH17F2prT/ynFuv+zALxeOk=
 			</data>
 		</dict>
-		<key>Modules/OneAssistSDK.swiftmodule/arm64.swiftdoc</key>
+		<key>LatinOCRResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yVThjbBt3XWbre+tOzXP+gDs2Sr4zqV9W0SmWyI3wEw=
+			/rUDvDkJ5vbYh4atjybSBoUMHVh/Il3i074mV329swY=
 			</data>
 		</dict>
-		<key>Modules/OneAssistSDK.swiftmodule/arm64.swiftmodule</key>
+		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			y1Hmb2ryBqUi+wRqxUksfdcatCe4NL9vUpNOHHucHKs=
+			Gji2RtEJwU3YrjDV8SqQNvYPnpI8kwEzeqJQd1nysJg=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/rpn_lstm_engine_tflite_latin.bincfg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EPDNQpLTZ7J3ggU9/BhgwGKbEwmAWLOsHW7KYoi7+wQ=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/rpn_text_detector_mobile_space_to_depth_quantized_v2.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KQajsAlTNRgTxJFzQeGXEH7SqqwtF2UIkHWNwZAnHe4=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/tflite_langid.tflite</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			f5Mfb3wd0OxZGs53gN+RZFpFD6/INQXz/0XOXvfIRBs=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.bincfg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oFDru3MHCMhVaoh3k7h/zhLun/pRevxSBccdRiS9e8c=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.class_lst</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VRUPJ3nQeTbJ+/i+y7hWf+PqWta22UQkWClpWorpaPo=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.conv_model</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZKunGbTtHuWz1IhsWq8LGsBRv1h56bCOhh4OKeIKCKc=
+			</data>
+		</dict>
+		<key>LatinOCRResources.bundle/tflite_lstm_recognizer_latin_0.3.lstm_model</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DtYuT74PxcQJCuxHOxNuGI+ChZB2XAKDgjWNrds8y24=
+			</data>
+		</dict>
+		<key>Modules/OneAssistSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3RO+zqV/DeABfr8zLamTK8KuigVZK+JakbvTQuROg3A=
+			</data>
+		</dict>
+		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zoVaVd8Dd3jFCDK26uyioJtAwojcYtT8nPsA5ElYpbs=
+			</data>
+		</dict>
+		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IK9OzdreZcd/Txnjv3GUZsjO7A4keLIQ3LiSFRc5AyA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
