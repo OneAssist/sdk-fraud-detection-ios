@@ -1,70 +1,78 @@
 PODS:
-  - Alamofire (5.2.2)
-  - CocoaLumberjack/Core (3.6.2)
-  - CocoaLumberjack/Swift (3.6.2):
+  - Alamofire (5.6.2)
+  - CocoaLumberjack/Core (3.7.4)
+  - CocoaLumberjack/Swift (3.7.4):
     - CocoaLumberjack/Core
-  - DeviceKit (3.2.0)
-  - GoogleDataTransport (7.3.0):
-    - nanopb (~> 1.30906.0)
-  - GoogleMLKit/MLKitCore (0.63.0):
-    - MLKitCommon (~> 0.63.0)
-  - GoogleMLKit/TextRecognition (0.63.0):
+  - DeviceKit (4.6.1)
+  - GoogleDataTransport (9.2.0):
+    - GoogleUtilities/Environment (~> 7.7)
+    - nanopb (< 2.30910.0, >= 2.30908.0)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleMLKit/MLKitCore (3.1.0):
+    - MLKitCommon (~> 7.0.0)
+  - GoogleMLKit/TextRecognition (3.1.0):
     - GoogleMLKit/MLKitCore
-    - MLKitTextRecognition (~> 0.63.0)
-  - GoogleToolboxForMac/DebugUtils (2.2.2):
-    - GoogleToolboxForMac/Defines (= 2.2.2)
-  - GoogleToolboxForMac/Defines (2.2.2)
-  - GoogleToolboxForMac/Logger (2.2.2):
-    - GoogleToolboxForMac/Defines (= 2.2.2)
-  - "GoogleToolboxForMac/NSData+zlib (2.2.2)":
-    - GoogleToolboxForMac/Defines (= 2.2.2)
-  - "GoogleToolboxForMac/NSDictionary+URLArguments (2.2.2)":
-    - GoogleToolboxForMac/DebugUtils (= 2.2.2)
-    - GoogleToolboxForMac/Defines (= 2.2.2)
-    - "GoogleToolboxForMac/NSString+URLArguments (= 2.2.2)"
-  - "GoogleToolboxForMac/NSString+URLArguments (2.2.2)"
-  - GoogleUtilities/Environment (6.7.2):
-    - PromisesObjC (~> 1.2)
-  - GoogleUtilities/Logger (6.7.2):
+    - MLKitTextRecognition (~> 1.4.0-beta5)
+  - GoogleToolboxForMac/DebugUtils (2.3.2):
+    - GoogleToolboxForMac/Defines (= 2.3.2)
+  - GoogleToolboxForMac/Defines (2.3.2)
+  - GoogleToolboxForMac/Logger (2.3.2):
+    - GoogleToolboxForMac/Defines (= 2.3.2)
+  - "GoogleToolboxForMac/NSData+zlib (2.3.2)":
+    - GoogleToolboxForMac/Defines (= 2.3.2)
+  - "GoogleToolboxForMac/NSDictionary+URLArguments (2.3.2)":
+    - GoogleToolboxForMac/DebugUtils (= 2.3.2)
+    - GoogleToolboxForMac/Defines (= 2.3.2)
+    - "GoogleToolboxForMac/NSString+URLArguments (= 2.3.2)"
+  - "GoogleToolboxForMac/NSString+URLArguments (2.3.2)"
+  - GoogleUtilities/Environment (7.7.0):
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Logger (7.7.0):
     - GoogleUtilities/Environment
-  - GoogleUtilities/UserDefaults (6.7.2):
+  - GoogleUtilities/UserDefaults (7.7.0):
     - GoogleUtilities/Logger
-  - GoogleUtilitiesComponents (1.0.0):
+  - GoogleUtilitiesComponents (1.1.0):
     - GoogleUtilities/Logger
-  - GTMSessionFetcher/Core (1.4.0)
-  - MLKitCommon (0.63.0):
-    - GoogleDataTransport (~> 7.0)
+  - GTMSessionFetcher/Core (1.7.2)
+  - MLImage (1.0.0-beta3)
+  - MLKitCommon (7.0.0):
+    - GoogleDataTransport (~> 9.0)
     - GoogleToolboxForMac/Logger (~> 2.1)
     - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
     - "GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)"
-    - GoogleUtilities/UserDefaults (~> 6.0)
+    - GoogleUtilities/UserDefaults (~> 7.0)
     - GoogleUtilitiesComponents (~> 1.0)
     - GTMSessionFetcher/Core (~> 1.1)
     - Protobuf (~> 3.12)
-  - MLKitTextRecognition (0.63.0):
-    - MLKitCommon (~> 0.63)
-    - MLKitVision (~> 0.63)
-  - MLKitVision (0.63.0):
+  - MLKitTextRecognition (1.4.0-beta5):
+    - MLKitCommon (~> 7.0)
+    - MLKitTextRecognitionCommon (= 1.0.0-beta5)
+    - MLKitVision (~> 4.1)
+  - MLKitTextRecognitionCommon (1.0.0-beta5):
+    - MLKitCommon (~> 7.0)
+    - MLKitVision (~> 4.1)
+  - MLKitVision (4.1.0):
     - GoogleToolboxForMac/Logger (~> 2.1)
     - "GoogleToolboxForMac/NSData+zlib (~> 2.1)"
     - GTMSessionFetcher/Core (~> 1.1)
-    - MLKitCommon (~> 0.63)
+    - MLImage (= 1.0.0-beta3)
+    - MLKitCommon (~> 7.0)
     - Protobuf (~> 3.12)
-  - nanopb (1.30906.0):
-    - nanopb/decode (= 1.30906.0)
-    - nanopb/encode (= 1.30906.0)
-  - nanopb/decode (1.30906.0)
-  - nanopb/encode (1.30906.0)
-  - OneAssistSDK (0.0.1):
+  - nanopb (2.30909.0):
+    - nanopb/decode (= 2.30909.0)
+    - nanopb/encode (= 2.30909.0)
+  - nanopb/decode (2.30909.0)
+  - nanopb/encode (2.30909.0)
+  - OneAssistSDK (0.0.2):
     - Alamofire
     - CocoaLumberjack/Swift
-    - DeviceKit (~> 3.2)
+    - DeviceKit
     - GoogleMLKit/TextRecognition
-  - PromisesObjC (1.2.10)
-  - Protobuf (3.13.0)
+  - PromisesObjC (2.1.1)
+  - Protobuf (3.21.3)
 
 DEPENDENCIES:
-  - OneAssistSDK (= 0.0.1)
+  - OneAssistSDK (= 0.0.2)
 
 SPEC REPOS:
   trunk:
@@ -77,8 +85,10 @@ SPEC REPOS:
     - GoogleUtilities
     - GoogleUtilitiesComponents
     - GTMSessionFetcher
+    - MLImage
     - MLKitCommon
     - MLKitTextRecognition
+    - MLKitTextRecognitionCommon
     - MLKitVision
     - nanopb
     - OneAssistSDK
@@ -86,23 +96,25 @@ SPEC REPOS:
     - Protobuf
 
 SPEC CHECKSUMS:
-  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
-  CocoaLumberjack: bd155f2dd06c0e0b03f876f7a3ee55693122ec94
-  DeviceKit: d081659419cce07c0b5239dbc9fb39ed7413c7fe
-  GoogleDataTransport: e85fb700c9b027079ce182c3d08e12e0f9618bb4
-  GoogleMLKit: 99fc8402693f034ecea567485af4de2bbb3ca108
-  GoogleToolboxForMac: 800648f8b3127618c1b59c7f97684427630c5ea3
-  GoogleUtilities: 7f2f5a07f888cdb145101d6042bc4422f57e70b3
-  GoogleUtilitiesComponents: a69c0b3b369ba443e988141e75ef49d9010b1c80
-  GTMSessionFetcher: 6f5c8abbab8a9bce4bb3f057e317728ec6182b10
-  MLKitCommon: fc574613b15b3c61056f1f2c2277397bf8e1eeda
-  MLKitTextRecognition: f63196c0836420144ac5a3cdc20635779e698628
-  MLKitVision: e5c375d316ffe7f08bf9be06126002a156318d90
-  nanopb: 59317e09cf1f1a0af72f12af412d54edf52603fc
-  OneAssistSDK: 3cb2c268e47e58438236d570492a33ec091c716d
-  PromisesObjC: b14b1c6b68e306650688599de8a45e49fae81151
-  Protobuf: 3dac39b34a08151c6d949560efe3f86134a3f748
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  CocoaLumberjack: 543c79c114dadc3b1aba95641d8738b06b05b646
+  DeviceKit: 316f28290430467278b8a0d1c895968efa9e16e2
+  GoogleDataTransport: 1c8145da7117bd68bbbed00cf304edb6a24de00f
+  GoogleMLKit: 9d072522949ff0ef4dae5359feaf3db2ef2fa658
+  GoogleToolboxForMac: 8bef7c7c5cf7291c687cf5354f39f9db6399ad34
+  GoogleUtilities: e0913149f6b0625b553d70dae12b49fc62914fd1
+  GoogleUtilitiesComponents: 679b2c881db3b615a2777504623df6122dd20afe
+  GTMSessionFetcher: 5595ec75acf5be50814f81e9189490412bad82ba
+  MLImage: 489dfec109f21da8621b28d476401aaf7a0d4ff4
+  MLKitCommon: 20f4aca0ec2bb37cef2b9c211b50586817bac5d3
+  MLKitTextRecognition: 46c6574e7db6452f5a426312c04a794c82d6fcf0
+  MLKitTextRecognitionCommon: 9f66172593cedc9654d56bf9b3d1044c054e2c41
+  MLKitVision: 639a171d937241f3fcf92bc1b3ef8f179f49916c
+  nanopb: b552cce312b6c8484180ef47159bc0f65a1f0431
+  OneAssistSDK: 6e204766c09b4d99d2e8231e145b82809c03492e
+  PromisesObjC: ab77feca74fa2823e7af4249b8326368e61014cb
+  Protobuf: 25e5dd0944f6f05a4db360eed782af5dc9533633
 
-PODFILE CHECKSUM: 926c5b89e6bd7204a321903ad2fa28c3649f0b75
+PODFILE CHECKSUM: ee5a33f47f6a89e261951084807e11e5a4217823
 
-COCOAPODS: 1.9.1
+COCOAPODS: 1.11.3
