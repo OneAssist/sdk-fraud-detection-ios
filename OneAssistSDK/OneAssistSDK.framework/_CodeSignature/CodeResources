@@ -26,11 +26,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		6KhUwy55rJ/lClaxnLa1o16EzeY=
+		dmKlWwlj5xo3csKzG1XPOkh5Mrg=
 		</data>
 		<key>LatinOCRResources.bundle/Info.plist</key>
 		<data>
-		Q+5pF0gDZ712NVr+Y55JQO/BX5U=
+		FJisE9WuqWKFKwvDiHwHN39X1Tc=
 		</data>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
 		<data>
@@ -66,15 +66,15 @@
 		</data>
 		<key>Modules/OneAssistSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		j09fhRcbFQNBDBw8rO3FvMl2Y5I=
+		2kamkFcfAKD16Argwo5q6gJb6BU=
 		</data>
 		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		V4UcbjxB1w/k76ReJxCP0x4PUI4=
+		5+vzjKdcmTnrch0yp2S7zCh7p4A=
 		</data>
 		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		7luavgozYZ+UcihI9TXKwfxm6RU=
+		H/3+/kYEQVnxgLlaSpM1UXzOHb8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -122,7 +122,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OY2s6bp8bt3ooyuhyeBf5Qhiz06PCy3J3Q7BFcyQNYw=
+			rFB0/EfBj5DOWFtuwnky8DbYEhriNHl6JqxUbs3Tz1g=
 			</data>
 		</dict>
 		<key>LatinOCRResources.bundle/region_proposal_text_detector_tflite_gray_quantized.bincfg</key>
@@ -185,21 +185,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IdCHyVk7QjBK6TghdvFymRK6p2xoWp9no2ZDGKCZBzs=
+			d+NSsayh1CcpBGd+/dxdyGQtVsksq+8B/GY9sH1+JU0=
 			</data>
 		</dict>
 		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nNjWUREzwQI+SuczJm6OmMUSxHlCOLKMQYing9jeLEA=
+			tFUgA2DGgq2eI0keQgBdbpe8TwYWcm2ZwUWuDRJZZWE=
 			</data>
 		</dict>
 		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0hmipW455PgN7EmjRqJ5U0x+wTN+WiltSXIdFxjyqCA=
+			sioQSBC6lrTTWi3UNr+GKpDqO95sxDGr/UmNsBgnczs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
