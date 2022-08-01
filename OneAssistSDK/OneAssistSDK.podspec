@@ -19,7 +19,6 @@ Pod::Spec.new do |spec|
   spec.vendored_frameworks = "OneAssistSDK/OneAssistSDK.framework"
 
   spec.dependency 'Alamofire'
-  spec.dependency 'GoogleMLKit/TextRecognition'
   spec.dependency 'DeviceKit'
   spec.dependency 'CocoaLumberjack/Swift'
 
