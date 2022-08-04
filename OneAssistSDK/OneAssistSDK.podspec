@@ -21,5 +21,6 @@ Pod::Spec.new do |spec|
   spec.dependency 'Alamofire'
   spec.dependency 'DeviceKit'
   spec.dependency 'CocoaLumberjack/Swift'
+  spec.dependency 'MMMaterialDesignSpinner'
 
 end

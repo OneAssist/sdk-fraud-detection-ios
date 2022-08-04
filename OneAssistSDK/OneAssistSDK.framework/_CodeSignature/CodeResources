@@ -4,17 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/OAFDLibrary.h</key>
-		<data>
-		QEcgvHLU5vEmUm2w/XX4VmiU4Vs=
-		</data>
 		<key>Headers/OneAssistSDK-Swift.h</key>
 		<data>
-		rTAymgv6I+kpqlKdxGyXC5Wkhfg=
+		vlZMTdNwJECVv+snzdBcxVo0AhM=
 		</data>
 		<key>Headers/OneAssistSDK.h</key>
 		<data>
-		7N7kld5n80bJvGfjpl2g1s5XNJs=
+		IYHgVCPHYFKV5m7UCL17Vf7PZGk=
 		</data>
 		<key>Headers/SaveSecureData.h</key>
 		<data>
@@ -30,15 +26,15 @@
 		</data>
 		<key>Modules/OneAssistSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		p4AVbixGxuyoECbY/oVgzoo+sBY=
+		ynAmlnWZwv1abQfKhKXg5xaAcKs=
 		</data>
 		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		V4UcbjxB1w/k76ReJxCP0x4PUI4=
+		j2Y3XYWTrTLqJXOi+HdfjE18BTA=
 		</data>
 		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		7jvIpzPwyetGtmOZQxZpyrPet2w=
+		p2xH9grAwmqqRCwvUvoh27tFdMs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,25 +43,18 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/OAFDLibrary.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			sSs8hubtwq7aMuqQ/ZFnzVXfUIH+wrJ2A8oxgV/TYIM=
-			</data>
-		</dict>
 		<key>Headers/OneAssistSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cFAtKXhsv2PGKTvAZu6uFtHq8O3wCMvOEG9orjMoWJM=
+			vDGPxJJWJUIoy0xsj2dQ0h9eCyY9z8JWdwgckZeRSYA=
 			</data>
 		</dict>
 		<key>Headers/OneAssistSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+zS/QIMZmPxjprJRweWvNkiwSdGd6kbsMI4vohwGEW4=
+			4afdba36Wwe65hSZN7PsurYVIjVV10jB66zwt+H5mMA=
 			</data>
 		</dict>
 		<key>Headers/SaveSecureData.h</key>
@@ -86,21 +75,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			63W0J55iEnAKzNZ8g8KwEX1izT81h8Be04ojj/yBSLI=
+			Tcx6KNLbarYpp1PkIPCOgRIpYhofovv0vYkregEBNS4=
 			</data>
 		</dict>
 		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nNjWUREzwQI+SuczJm6OmMUSxHlCOLKMQYing9jeLEA=
+			BKgQH6kttpd+h4D/aW6s7zO8meg3Ms3KHwJseWe4hoU=
 			</data>
 		</dict>
 		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qu3OKmQ9RJEu8GSrZ1sL4390aDLHcsP3wiK87LAfgv8=
+			AZzZyoEfVSmpNVip4Db3+7lY4sSbUtxAKBlJyDArMoc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

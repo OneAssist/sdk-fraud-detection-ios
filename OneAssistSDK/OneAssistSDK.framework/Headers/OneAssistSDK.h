@@ -6,7 +6,6 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "OAFDLibrary.h"
 #import "SaveSecureData.h"
 
 //! Project version number for OneAssistSDK.
