@@ -2,8 +2,7 @@
 //  OneAssistSDK.h
 //  OneAssistSDK
 //
-//  Created by Anand Kumar on 23/08/2020.
-//  Copyright © 2020 Anand Kumar. All rights reserved.
+//  Created by Anand Kumar on 04/08/22.
 //
 
 #import <Foundation/Foundation.h>
