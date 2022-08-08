@@ -18,15 +18,15 @@
 		</data>
 		<key>IMEIScreenVC.nib</key>
 		<data>
-		Vvz9zvzNhStShc9SmRQkhHMxKuY=
+		acopJOV1NJVjHktOUQGeL0cxrLg=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xU7kUx9Ct2wpqmK8X179gACLaxE=
+		Bhu7Y0Hk6sn8GdaGluyI52Ix2CY=
 		</data>
 		<key>Modules/OneAssistSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		ynAmlnWZwv1abQfKhKXg5xaAcKs=
+		EjsGggNFG9GNlZeVIJ6X6ljZPa4=
 		</data>
 		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		p2xH9grAwmqqRCwvUvoh27tFdMs=
+		2YCynGKIiR0NH0OKfapozp/ZRa4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,14 +68,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eLAswcGV/7MbCtopkCh0cH17F2prT/ynFuv+zALxeOk=
+			B/jTyYhkI1LUK5K7t7Z/u4SD7cqL7fs5DK+Y40B8b/k=
 			</data>
 		</dict>
 		<key>Modules/OneAssistSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Tcx6KNLbarYpp1PkIPCOgRIpYhofovv0vYkregEBNS4=
+			7Evi4L6fkHNoJxOjbzrjjk1wxFasRDlWtnK8byvNufU=
 			</data>
 		</dict>
 		<key>Modules/OneAssistSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AZzZyoEfVSmpNVip4Db3+7lY4sSbUtxAKBlJyDArMoc=
+			xVm9Xauj6bVwY4XSHNLK4tGU/drBsO2d/XYewoEOzDs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
