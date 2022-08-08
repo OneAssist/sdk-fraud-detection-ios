@@ -10,7 +10,7 @@ import UIKit
 import OneAssistSDK
 
 var token: String { return UserDefaults.standard.value(forKey: "auth_token") as? String ?? "" }
-var activationCode: String { return UserDefaults.standard.value(forKey: "activation_code") as? String ?? "" }
+var orderUUID: String { return UserDefaults.standard.value(forKey: "order_uuid") as? String ?? "" }
 
 class ViewController: UIViewController {
     
@@ -61,7 +61,7 @@ class ViewController: UIViewController {
     }
     
     func getCurrentActivationState() {
-        activationHelper.startActivation(for: activationCode, completion: handleSDKCallback)
+        activationHelper.startActivation(for: orderUUID, completion: handleSDKCallback)
     }
     
     @IBAction func getIMEITapped(_ sender: Any) {
