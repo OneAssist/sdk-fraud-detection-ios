@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "OneAssistSDK"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "Framework for OneAssist memberhsip activation."
 
   spec.homepage     = "https://github.com/oneassist/sdk-fraud-detection-ios.git"
@@ -21,6 +21,5 @@ Pod::Spec.new do |spec|
   spec.dependency 'Alamofire'
   spec.dependency 'DeviceKit'
   spec.dependency 'CocoaLumberjack/Swift'
-  spec.dependency 'MMMaterialDesignSpinner'
 
 end
