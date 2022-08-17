@@ -16,6 +16,9 @@ Pod::Spec.new do |spec|
 
   spec.source       = { :git => "https://github.com/oneassist/sdk-fraud-detection-ios.git", :tag => "#{spec.version}" }
 
+  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  
   spec.vendored_frameworks = "OneAssistSDK/OneAssistSDK.framework"
 
   spec.dependency 'Alamofire'
