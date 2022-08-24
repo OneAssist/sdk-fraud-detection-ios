@@ -7,5 +7,5 @@ target 'OneAssistSDK-Example' do
 
   # Pods for OneAssistSDK-Example
 
-  pod "OneAssistSDK", "0.0.3"
+  pod "OneAssistSDK", "0.0.4"
 end

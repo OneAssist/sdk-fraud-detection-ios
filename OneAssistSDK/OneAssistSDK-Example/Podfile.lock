@@ -4,13 +4,13 @@ PODS:
   - CocoaLumberjack/Swift (3.7.4):
     - CocoaLumberjack/Core
   - DeviceKit (4.6.1)
-  - OneAssistSDK (0.0.3):
+  - OneAssistSDK (0.0.4):
     - Alamofire
     - CocoaLumberjack/Swift
     - DeviceKit
 
 DEPENDENCIES:
-  - OneAssistSDK (= 0.0.3)
+  - OneAssistSDK (= 0.0.4)
 
 SPEC REPOS:
   trunk:
@@ -23,8 +23,8 @@ SPEC CHECKSUMS:
   Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
   CocoaLumberjack: 543c79c114dadc3b1aba95641d8738b06b05b646
   DeviceKit: 316f28290430467278b8a0d1c895968efa9e16e2
-  OneAssistSDK: 27d4101e5f1bcbfeef7e02484ce3c006f3b027c1
+  OneAssistSDK: 66a5d4f4a7ef713f369226ef0b5543cbbe6e7474
 
-PODFILE CHECKSUM: e987a92885642e8f81343350e10d48118d6aca45
+PODFILE CHECKSUM: 08f8e1d87c18fcdc25d10f7049fdfca8a51a21ae
 
 COCOAPODS: 1.11.3
