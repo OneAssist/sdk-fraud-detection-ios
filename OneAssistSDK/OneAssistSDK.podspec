@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "OneAssistSDK"
-  spec.version      = "0.0.4"
+  spec.version      = "0.0.5"
   spec.summary      = "Framework for OneAssist memberhsip activation."
 
   spec.homepage     = "https://github.com/oneassist/sdk-fraud-detection-ios.git"
