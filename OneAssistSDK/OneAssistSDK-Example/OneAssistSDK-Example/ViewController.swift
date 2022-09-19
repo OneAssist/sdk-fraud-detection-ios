@@ -66,12 +66,12 @@ class ViewController: UIViewController {
     
     @IBAction func getIMEITapped(_ sender: Any) {
         infoLablel.text = "Getting IMEI"
-        activationHelper.fetchDeviceId(pincode: pincodeTF.text, address: addressTF.text, completion: handleSDKCallback)
+        activationHelper.fetchDeviceId(addressInfo: nil, completion: handleSDKCallback)
     }
     
     @IBAction func sendDetailsTapped(_ sender: Any) {
         infoLablel.text = "Sending Details"
-        activationHelper.submitBasicDetails(pincode: pincodeTF.text ?? "", address: addressTF.text ?? "", completion: handleSDKCallback)
+        activationHelper.submitBasicDetails(addressInfo: nil, completion: handleSDKCallback)
     }
     
     @IBAction func sendSMSTapped(_ sender: Any) {
